@@ -22,3 +22,8 @@ display:flex;
 justify-content:center;
 align-items:center;
 ```
+## 4. (for container)
+```css
+display:grid;
+place-items:center;
+```
