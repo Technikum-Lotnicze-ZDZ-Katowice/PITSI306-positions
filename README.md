@@ -31,4 +31,4 @@ place-items:center;
 ZAD.321
 Przygotuj prostokątne elementy (nachodzące na siebie). Po kliknięciu na element przenoszony jest "na górę";
 
-![O](Order.jpg)
+![O](Order.JPG)
