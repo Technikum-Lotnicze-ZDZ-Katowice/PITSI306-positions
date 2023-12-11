@@ -15,3 +15,10 @@ top:50%;
 left:50%;
 translate:-50% -50%;
 ```
+
+## 3.
+```css
+        display:flex;
+        justify-content:center;
+        align-items:center;
+```
