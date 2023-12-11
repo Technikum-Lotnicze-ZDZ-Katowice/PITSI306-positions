@@ -1,6 +1,6 @@
 # 320-Center
 
-## 1
+## 1.
 
 ```css
 text-align:center;
