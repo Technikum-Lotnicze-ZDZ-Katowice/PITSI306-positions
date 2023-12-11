@@ -6,3 +6,12 @@
 text-align:center;
 padding-top:calc(50%-.5em);
 ```
+
+## 2.
+
+```css
+position:absolute;
+top:50%;
+left:50%;
+translate:-50% -50%;
+```
