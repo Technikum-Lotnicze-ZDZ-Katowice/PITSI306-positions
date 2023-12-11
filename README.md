@@ -18,7 +18,7 @@ translate:-50% -50%;
 
 ## 3. (for container)
 ```css
-        display:flex;
-        justify-content:center;
-        align-items:center;
+display:flex;
+justify-content:center;
+align-items:center;
 ```
