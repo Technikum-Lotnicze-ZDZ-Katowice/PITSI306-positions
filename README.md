@@ -41,5 +41,5 @@ Przygotuj mockup ekranu gry 2D "Retro space shooter" w HTML i CSS zawierający o
 - Broń
 - Sterowanie
 
-![](unnamed.png)
+![space](unnamed.webp)
 
