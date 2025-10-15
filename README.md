@@ -44,6 +44,10 @@ Przygotuj mockup ekranu gry 2D "Retro space shooter" w HTML i CSS zawierający o
 ![space](unnamed.webp)
 
 
+### ASSETS
+
+https://www.toptal.com/designers/htmlarrows/arrows/
+
 
 ### INFO
 
