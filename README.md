@@ -49,3 +49,5 @@ Przygotuj mockup ekranu gry 2D "Retro space shooter" w HTML i CSS zawierający o
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
