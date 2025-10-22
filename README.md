@@ -44,6 +44,8 @@ Przygotuj mockup ekranu gry 2D "Retro space shooter" w HTML i CSS zawierający o
 ##### DO ZROBIENIA:
 
 1. Dodaj ekran startowy (START) i Końcowy (CONGRATULATIONS / GAME OVER - ZAGRAJ PONOWNIE)
+2. WYBÓR POZIOMU TRUDNOŚCI (WYBÓR POJAZDU)
+3. Sprawdzanie warunków brzegowych
 
 ![space](unnamed.webp)
 
