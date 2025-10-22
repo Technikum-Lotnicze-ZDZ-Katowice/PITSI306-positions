@@ -41,6 +41,10 @@ Przygotuj mockup ekranu gry 2D "Retro space shooter" w HTML i CSS zawierający o
 - Broń
 - Sterowanie
 
+##### DO ZROBIENIA:
+
+1. Dodaj ekran startowy (START) i Końcowy (CONGRATULATIONS / GAME OVER - ZAGRAJ PONOWNIE)
+
 ![space](unnamed.webp)
 
 
